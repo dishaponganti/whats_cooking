@@ -1,0 +1,7 @@
+{
+  "watchman": {
+    "enabled": true
+  },
+  "maxFilesWatched": 524288,
+  "nodeLimit": 512
+}

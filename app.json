@@ -1,0 +1,28 @@
+{
+  "expo": {
+    "name": "What's Cooking",
+    "slug": "whats-cooking",
+    "version": "1.0.0",
+    "sdkVersion": "54.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTabletMode": true,
+      "bundleIdentifier": "com.dishaponganti.whatscooking",
+      "infoPlist": {
+        "ITSAppUsesNonExemptEncryption": false
+      }
+    },
+    "android": {
+      "package": "com.dishaponganti.whatscooking"
+    },
+    "web": {},
+    "plugins": [],
+    "extra": {
+      "eas": {
+        "projectId": "2131fe36-561e-49b6-b867-6701e789c4bd"
+      }
+    }
+  }
+}
